@@ -1,1 +1,1 @@
-# Neighborhood Clustering
+# Segmenting and Clustering Neighborhoods
